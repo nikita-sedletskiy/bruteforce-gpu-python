@@ -1,2 +1,13 @@
 # bruteforce-gpu-python
-Simple script that uses python and gpu to bruteforce any password
+<h1>Simple script that uses python and gpu to bruteforce any password<h1>
+Requires numba, 
+
+```
+conda install numba 
+```
+or 
+
+```
+pip install numba to install
+```
+to install, then run the script :)
