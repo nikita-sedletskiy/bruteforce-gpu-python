@@ -11,3 +11,5 @@ or
 pip install numba to install
 ```
 to install, then run the script :)
+
+Modified from https://github.com/pythontoday/brute_excel
