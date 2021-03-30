@@ -1,5 +1,5 @@
 # bruteforce-gpu-python
-<h1>Simple script that uses python and gpu to bruteforce any password<h1>
+<h1>Simple script that uses python and gpu to bruteforce any password</h1>
 Requires numba, 
 
 ```
