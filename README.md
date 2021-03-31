@@ -8,7 +8,7 @@ conda install numba
 or 
 
 ```
-pip install numba to install
+pip install numba
 ```
 to install, then run the script :)
 
